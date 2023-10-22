@@ -1,0 +1,11 @@
+route_long_name,Str. Posada - Centru Rediu
+service_name,Luni - Vineri
+service_start,25.09.2023
+in_stop_name,Str. Posada
+out_stop_name,Centru Rediu
+05:05,04:30
+07:15,06:00
+08:50,08:00
+16:00,15:10
+18:30,17:30
+
